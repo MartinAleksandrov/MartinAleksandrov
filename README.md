@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I'm Martin Aleksandrov! 👋
 
-<!--
-**MartinAleksandrov/MartinAleksandrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate C# backend developer specializing in ASP.NET Core, MSSQL, and HTML. Here you'll find a collection of projects that showcase my skills and interests in software development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 C# Backend Developer
+- 🌐 ASP.NET Core Enthusiast
+- 🛢️ MSSQL Aficionado
+- 🖥️ HTML Craftsman
+
+## Current Projects
+
+### Project: Pumping_Iron
+
+"This is a project for training clients and trainers. Each client can hire a trainer, and the trainer can create diets, workout programs, and assign them to their clients."
+
+## Get in Touch
+
+- Email: martaleksandroff@gmail.com
+
+Feel free to connect with me on LinkedIn or shoot me an email if you'd like to collaborate on a project or just chat about technology!
+
+Happy coding! 🚀
