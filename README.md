@@ -4,7 +4,8 @@ Welcome to my GitHub profile! I'm a passionate C# backend developer specializing
 
 ## About Me
 
-- 💻 C# Backend Developer
+- 💻 C# 
+- 💻 Java 
 - 🌐 ASP.NET Core Enthusiast
 - 🛢️ MSSQL Aficionado
 - 🖥️ HTML Craftsman
@@ -18,6 +19,7 @@ Welcome to my GitHub profile! I'm a passionate C# backend developer specializing
 ## Get in Touch
 
 - Email: martaleksandroff@gmail.com
+- Linkedin: https://www.linkedin.com/in/martin-aleksandrov-4443b7307/
 
 Feel free to connect with me on LinkedIn or shoot me an email if you'd like to collaborate on a project or just chat about technology!
 
